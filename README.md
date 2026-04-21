@@ -39,6 +39,7 @@ Construct a skeleton matching your intended UI layout by applying the `.skeleton
 Instead of showing users a blank screen or a spinning wheel (which increases perceived load time and bounce rate), skeleton screens give users immediate visual feedback that content is arriving. This drastically improves the "Cumulative Layout Shift" (CLS) metric in Google Core Web Vitals, leading directly to higher search engine rankings.
 
 
+
 ---
 
 ## 🚀 Discover More from Stackaura
@@ -56,4 +57,5 @@ If you found this tool useful, check out our other high-performance web utilitie
 - **Author:** [Ahmar Hussain](https://github.com/RanaAhmar)
 
 ---
+
 
